@@ -1,0 +1,16 @@
+.card {
+    background-color: rgb(182, 182, 182);
+    text-align: center;
+    padding: 0 60px 40vh 60px;
+    flex: 1;
+}
+
+.container {
+    margin-top: 20vh;
+    display: flex;
+    gap: 3rem;
+}
+
+.card:hover {
+    
+}
